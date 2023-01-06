@@ -15,9 +15,9 @@
 ### 🎨 &nbsp;Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)&nbsp;
 ![Gimp](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=for-the-badge)&nbsp;
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge)&nbsp;
+![SublimeText](https://img.shields.io/badge/Sublime%20Text-D83B01?logo=sublimetext&logoColor=FF9800&style=for-the-badge)&nbsp;
 ![MSOffice](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=fff&style=for-the-badge)&nbsp;
-![SublimeText](https://img.shields.io/badge/Sublime%20Text-D83B01?logo=sublimetext&logoColor=FF9800&style=for-the-badge?color=4C4C4C)&nbsp;
-
 
 ## Github Stats
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=dementive&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
