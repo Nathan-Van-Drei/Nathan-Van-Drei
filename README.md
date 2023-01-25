@@ -7,6 +7,7 @@
 - <a href="https://github.com/dementive/SublimePlus">Sublime Plus</a>&nbsp;
 - <a href="https://github.com/dementive/Victoria3Tools">Victoria 3 Scripting Tools</a>&nbsp;
 - <a href="https://github.com/dementive/Terra-Indomita">Terra Indomita - Project Lead</a>&nbsp;
+- <a href="https://github.com/dementive/JominiGuiPixelShaders">Jomini Pixel Shader Collection</a>&nbsp;
 
 ## Skills
 ### 📝 &nbsp;Proficiency in
