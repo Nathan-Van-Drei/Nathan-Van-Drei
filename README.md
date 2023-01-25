@@ -1,8 +1,8 @@
-# My Portfolio
+# Portfolio
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+CS+Student+at+Bowling+Green;" /></a>
 
-## Projects
+## My Projects
 
 - <a href="https://github.com/dementive/SublimePlus">Sublime Plus</a>&nbsp;
 - <a href="https://github.com/dementive/Victoria3Tools">Victoria 3 Scripting Tools</a>&nbsp;
